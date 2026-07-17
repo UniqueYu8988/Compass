@@ -3,3 +3,6 @@ Thumbs.db
 desktop.ini
 .codex_folder_icon.ico
 
+# Keep personal diary entries local. The folder guide remains versioned.
+07_日记/**
+!07_日记/README.md
